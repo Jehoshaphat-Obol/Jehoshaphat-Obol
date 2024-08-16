@@ -72,7 +72,7 @@
 
   <img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" alt="HTML" title="HTML" style="margin: 10px; height: 100px;" />
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" title="css" style="margin: 10px; height: 100px;" />" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" title="css" style="margin: 10px; height: 100px;" />
   
   <img src="https://imgs.search.brave.com/oeC_oZu2k-oNjtRkj2QwGs0Lc-7pfNzKwISBt96Ilow/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjI4OWNlZjEw/MTRjMGI1ZTQ4NmIu/cG5n" alt="css" title="css" style="margin: 10px; height: 100px;" />
 
