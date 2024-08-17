@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"><a href="https://twitter.com/JehoshaphatObol" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/jehoshaphat-obol" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@qwqnhr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jehoshaphat-obol&label=Profile%20views&color=0e75b6&style=flat" alt="acellam" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=jehoshaphat-obol&label=Profile%20views&color=0e75b6&style=flat" alt="Jehoshaphat Obol" /> </p>
 
 <h1 align="center">👋 Hi, I'm Jehoshaphat Obol</h1>
 <p align="center">
