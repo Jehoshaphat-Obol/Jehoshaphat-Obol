@@ -22,7 +22,7 @@
   
   <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="Mongo DB" title="Mongo DB" style="margin: 10px; height: 100px;" />
   
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" title="Flask" style="margin: 10px; height: 100px;" />  
+  <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" title="Flask" style="margin: 10px; height: 100px;" />  
   
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django" title="Django" style="margin: 10px; height: 100px;" />  
   
