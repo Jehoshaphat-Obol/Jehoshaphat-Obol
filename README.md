@@ -2,83 +2,30 @@
 <p align="center">
   <img src="https://i.pinimg.com/280x280_RS/eb/74/6c/eb746c68ba497d42c6e7c481dd04bf2c.jpg" alt="Jehoshaphat Obol" style="border-radius:50%;" />
 </p>
-
-<p align="center"><a href="https://twitter.com/JehoshaphatObol" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/jehoshaphat-obol" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@qwqnhr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jehoshaphat-obol&label=Profile%20views&color=0e75b6&style=flat" alt="Jehoshaphat Obol" /> </p>
-
-<h1 align="center">👋 Hi, I'm Jehoshaphat Obol</h1>
-<p align="center">
-  A passionate developer, building innovative solutions using the latest web and mobile technologies. I love exploring new tools and frameworks and am always eager to learn and grow.
-</p>
+# 💫 About Me:
+A passionate developer, building innovative solutions using the latest web and mobile technologies. I love exploring new tools and frameworks and am always eager to learn and grow.
 
 
-<h2>💻 Technology Stack & Tools</h2>
-<p align="center">
-  <img src="https://imgs.search.brave.com/FTydGl3iJyNilLQan9YwMXPfNYpKT7g-UxAkKBs-6b4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvZ2l0aHViL3Nt/YWxsL2dpdGh1Yl9Q/Tkc3OC5wbmc" alt="GitHub" title="GitHub" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://www.django-rest-framework.org/img/logo.png" title="Django Rest Framework" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://imgs.search.brave.com/CnslUfsK0qtHZGqRQpKO0tyHbXI8avmYXCiQydzynNU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NeVNRTC9N/eVNRTC1Mb2dvLndp/bmUuc3Zn" alt="MySQL" title="MySQL" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="Mongo DB" title="Mongo DB" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask" title="Flask" style="margin: 10px; height: 100px;" />  
-  
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django" title="Django" style="margin: 10px; height: 100px;" />  
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="Docker" title="Docker" style="margin: 10px; height: 100px;" />  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeho.ceasar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jehoshaphat.obol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jehoshaphat-Obol) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jehoshaphat-obol) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jehoshaphatobolx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jehoshaphatobol) 
 
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React JS" title="React JS" style="margin: 10px; height: 100px;" />
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jehoshaphat-obol&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jehoshaphat-obol&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jehoshaphat-obol&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue JS" title="Vue JS" style="margin: 10px; height: 100px;" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jehoshaphat-obol&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express JS" title="Express JS" style="margin: 10px; height: 100px;" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jehoshaphat-obol&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node JS" title="Node JS" style="margin: 10px; height: 100px;" />
+---
+[![](https://visitcount.itsvg.in/api?id=jehoshaphat-obol&icon=0&color=8)](https://visitcount.itsvg.in)
 
-
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="Tailwind CSS" title="Tailwind css" style="margin: 10px; height: 100px;" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" title="Bootstrap" style="margin: 10px; height: 100px;" />
-
-  <img src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png" alt="JQuery" title="JQuery" style="margin: 10px; height: 100px;" />
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="Sass" title="Sass" style="margin: 10px; height: 100px;" />
-
-  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Scikit Learn" title="Scikit Learn" style="margin: 10px; height: 100px;" />
-
-  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" title="Numpy" style="margin: 10px; height: 100px;" />
-
-  <img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="Pandas" title="Pandas" style="margin: 10px; height: 100px;" />
-  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three JS" title="Three JS" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://avatars.githubusercontent.com/u/59276?s=280&v=4" alt="C++" title="C++" style="margin: 10px; height: 100px;" />
-
-  <img src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" alt="Java" title="Java" style="margin: 10px; height: 100px;" />
-
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="PHP" title="PHP" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="Javascript" title="Javascript" style="margin: 10px; height: 100px;" />
-
-  <img src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" alt="Python" title="Python" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://media.licdn.com/dms/image/D4D12AQFscCu_T0xB3A/article-cover_image-shrink_600_2000/0/1688794846091?e=2147483647&v=beta&t=W6FiJ_ZGjTh79I8xtLZZ8_-zu58OQb-fcB3cNbc2dZw" alt="Spring boot" title="Spring Boot" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://bashlogo.com/img/logo/png/full_colored_light.png" alt="Bash" title="Bash" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="Git" title="Git" style="margin: 10px; height: 100px;" />
-
-  <img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" alt="HTML" title="HTML" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" title="css" style="margin: 10px; height: 100px;" />
-  
-  <img src="https://imgs.search.brave.com/oeC_oZu2k-oNjtRkj2QwGs0Lc-7pfNzKwISBt96Ilow/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjI4OWNlZjEw/MTRjMGI1ZTQ4NmIu/cG5n" alt="css" title="css" style="margin: 10px; height: 100px;" />
-
-</p>
-<div align="center" style="margin-top: 20px;">
-<button  style="display: inline-block;background: #0072b1; color:white; margin-left: auto; margin-right: auto;">
-  📫connect with me on <a href="www.linkedin.com/in/jehoshaphat-obol">LinkedIn</a>.
-</button>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
