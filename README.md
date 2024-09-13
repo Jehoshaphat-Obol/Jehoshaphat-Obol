@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="https://i.pinimg.com/280x280_RS/eb/74/6c/eb746c68ba497d42c6e7c481dd04bf2c.jpg" alt="Jehoshaphat Obol" style="border-radius:50%;" />
-</p>
 # 💫 About Me:
 A passionate developer, building innovative solutions using the latest web and mobile technologies. I love exploring new tools and frameworks and am always eager to learn and grow.
 
