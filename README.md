@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" src="https://imgur.com/7A5ZfPJ"  />
+  <img height="200" src="https://i.imgur.com/7A5ZfPJ.gif"  />
+  <img src="https://raw.githubusercontent.com/Jehoshaphat-Obol/Jehoshaphat-Obol/output/snake.svg" alt="Snake animation" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Jehoshaphat-Obol/Jehoshaphat-Obol/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeho.ceasar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jehoshaphat.obol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jehoshaphat-Obol) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jehoshaphat-obol) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jehoshaphatobolx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jehoshaphatobol) 
